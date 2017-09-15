@@ -9775,10 +9775,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\timlo\\onedrive\\documents\\visual studio 2017\\Projects\\Banksite\\Banksite\\Banksite.csproj",
+      "projectUniqueName": "C:\\Users\\timlo\\OneDrive\\documents\\visual studio 2017\\Projects\\Banksite\\Banksite\\Banksite.csproj",
       "projectName": "Banksite",
-      "projectPath": "c:\\users\\timlo\\onedrive\\documents\\visual studio 2017\\Projects\\Banksite\\Banksite\\Banksite.csproj",
-      "outputPath": "c:\\users\\timlo\\onedrive\\documents\\visual studio 2017\\Projects\\Banksite\\Banksite\\obj\\",
+      "projectPath": "C:\\Users\\timlo\\OneDrive\\documents\\visual studio 2017\\Projects\\Banksite\\Banksite\\Banksite.csproj",
+      "outputPath": "C:\\Users\\timlo\\OneDrive\\documents\\visual studio 2017\\Projects\\Banksite\\Banksite\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
